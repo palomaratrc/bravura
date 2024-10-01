@@ -1,0 +1,46 @@
+.divframe {
+	border: thin solid #FFFFFF;
+}
+.basicframe {
+	padding: 2px;
+	height: auto;
+	width: auto;
+}
+.title {
+	font-family: "Times New Roman", Times, serif;
+	font-size: x-large;
+	font-weight: bold;
+}
+.author {
+	font-family: "Times New Roman", Times, serif;
+	font-size: large;
+	font-style: italic;
+	font-weight: bold;
+}
+.titlecell {
+	padding: 2px 2px 2px 21px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #FFFFFF;
+	text-align: left;
+}
+.textcell {
+	font-family: "Times New Roman", Times, serif;
+	padding: 8px;
+	text-align: left;
+}
+a:link {
+	color: #CCCCCC;
+}
+a:visited {
+	color: #999999;
+}
+a:active {
+	color: #666666;
+}

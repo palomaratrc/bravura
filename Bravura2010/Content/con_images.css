@@ -1,0 +1,9 @@
+/* These images used to format images in content areas */
+
+body {
+	text-align: center;
+}
+
+img {
+	border: inset #3399FF 5px;
+}

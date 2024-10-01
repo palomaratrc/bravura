@@ -1,0 +1,107 @@
+/* Common styles used for Bravura */
+
+body {
+	height: 100%;
+	color: black;
+	font-size: 100%;
+}
+
+h1 {
+	font-family: Eurostile, Arial, sans-serif;
+	padding-left: 1.5em;
+	padding-bottom: 0.5em;
+}
+
+td, th {
+	font-family: Calibri, Helvetica, sans-serif;
+	font-size: 75%;
+}
+
+td a:link, td a:visited, td a:hover, td a:active {
+	text-decoration: none;
+	color: #3399FF;
+}
+
+.title {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.author {
+	font-size: 70%;
+	color: black;
+}
+
+#page_wrapper {
+	width: 100%;
+	margin: 65px auto;
+}
+
+#def {
+	font-family: Calibri, Helvetica, sans-serif;
+	width: 500px;
+	font-weight: bold;
+}
+
+#info {
+	width: 450px;
+	text-align: justify;
+	margin-top: 35px;
+}
+
+#first {
+	font-size: 280%;
+	margin-left: -0.45em;
+}
+
+#nav {
+	font-family: "Abadi MT Condensed Extra Bold", "Abadi MT Condensed Light", sans-serif;
+	font-weight: bold;
+	letter-spacing: -0.15em;
+	word-spacing: 2em;
+	width: 550px;
+	margin-bottom: 30px;
+	float: left;
+}
+
+#archive {
+	word-spacing: 0;
+}
+
+#nav a:link, #nav a:hover, #nav a:visited, #nav a:active {
+	text-decoration: none;
+	color: black;
+	font-size: 125%;
+}
+
+#left {
+	float: left;
+	width: 550px;
+	margin-bottom: 30px;
+	margin-left: 6%;
+	text-align: center;
+}
+
+#right {
+	float: right;
+	margin-right: 20%;
+}
+
+#right img {
+	border: 0;
+}
+
+#top, #bottom {
+	height: 6px;
+	background-color: #3399FF;
+	color: #3399FF;
+}
+
+#bottom {
+	margin-bottom: 40px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 20em;
+}

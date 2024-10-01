@@ -1,0 +1,28 @@
+/* These styles used for the text based content pages */
+
+body {
+	font-family: Eurostile, Arial, sans-serif;
+	font-size: 95%;
+	color: black;
+	background-color: white;
+	text-align: left;
+	margin-top: 2%;
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+.emph {
+	font-style: italic;
+}
+
+#title {
+	font-weight: bold;
+}
+
+.findent {
+	padding-left: 1.6em;
+}
+
+#middle {
+	text-align: center;
+}

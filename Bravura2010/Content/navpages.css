@@ -1,0 +1,25 @@
+/* These styles are for the content navigation pages */
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #3399FF;
+}
+
+td, th {
+	font-family: Calibri, Helvetica, sans-serif;
+	font-size: 75%;
+}
+
+.title {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.author {
+	font-size: 70%;
+	color: black;
+}
+
+#single {
+	color: black;
+}

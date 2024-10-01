@@ -1,0 +1,149 @@
+#page_wrapper {
+	height: 100%;
+	width: 1000px;
+	position: relative;
+	color: black;
+	margin: 0px 0px;
+	background-color: white;
+}
+.clear {
+	clear: both;
+}
+#site_nav {
+	width: 150px;
+	padding-top: 60px;
+	padding-left: 25px;
+	font-family: "Abadi MT Condensed Extra Bold", "Abadi MT Condensed Light", sans-serif;
+	font-weight: bold;
+	letter-spacing: -0.15em;
+	word-spacing: 2em;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#site_nav a:link, #site_nav a:hover, #site_nav a:visited, #site_nav a:active {
+	text-decoration: none;
+	color: black;
+	font-size: 125%;
+}
+#archive {
+	word-spacing: 0;
+}
+#content_area {
+	width: 825px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 176px;
+}
+#nav_wrapper {
+	width: 100%;
+	height: 175px;
+	overflow: auto;
+}
+
+#cat_nav {
+	font-family: "Abadi MT Condensed Extra Bold", "Abadi MT Condensed Light", sans-serif;
+	font-weight: bold;
+	letter-spacing: -0.10em;
+	word-spacing: 2em;
+	color: black;
+	width: 400px;
+	margin: 8px auto;
+}
+#odd {
+	word-spacing: .25em;
+}
+#cat_nav a:link, #cat_nav a:visited, #cat_nav a:hover, #cat_nav a:active {
+	text-decoration: none;
+	color: black;
+}
+#content_wrapper {
+	width: 100%;
+	height: 550px;
+	overflow: auto;
+}
+
+#cover {
+/*	margin: 20px auto; */
+	width: 600px;
+	height: 464px;
+	border: 5px inset #3399FF;
+}
+
+#cover img {
+	border: 0;
+}
+
+.content_section {
+	width: 600px;
+	margin: 20px auto 25px auto; 
+}
+
+.nav_table {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td, th {
+	font-family: Calibri, Helvetica, sans-serif;
+	font-size: 75%;
+	padding: 3px;
+}
+
+.title {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.author {
+	font-size: 70%;
+	color: black;
+}
+
+td a:link, td a:visited, td a:hover, td a:active {
+	text-decoration: none;
+	color: #3399FF;
+}
+
+.nav_set {
+	margin-top: 200px;
+}
+
+.scroll_up {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.scroll_up a{
+	color: #39F;
+	font-family: Calibri, Helvetica, sans-serif;
+	font-size: 95%;
+}
+
+.content_item {
+	width: 100%;
+	margin-top: 500px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+.content_image{
+	margin-top: 40px;
+}
+
+.content_item a {
+	color: #fff;
+}
+
+.piece {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.writer {
+	font-size: 14px;
+}
